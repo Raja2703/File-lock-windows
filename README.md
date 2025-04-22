@@ -1,6 +1,6 @@
 ## How to password protect file/folder in windows
 ---
-- Copy the content in the above file and paste it in a new file.
+- Copy the content in "folder lock.txt" and paste it in a new file.
 - change "YOUR-PASSWORD" with the password you want to open the folder
 - save the new with extension ".bat"
 - double click the bat file
