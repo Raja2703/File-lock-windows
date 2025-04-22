@@ -1,0 +1,11 @@
+## How to password protect file/folder in windows
+---
+- Copy the content in the above file and paste it in a new file.
+- change "YOUR-PASSWORD" with the password you want to open the folder
+- save the new with extension ".bat"
+- double click the bat file
+- it will open a folder named "Private" appear
+- move your personal files or folders into the "Private" folder
+- now again click the bat file. it will ask whether to lock the folder.
+- type y and hit enter
+- Boom. Your folders have been password protected and hidden
